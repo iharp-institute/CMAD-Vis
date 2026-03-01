@@ -1,0 +1,6 @@
+version: "2"
+authtoken: 36dR7d1bVFgZNL7qpi7IrDJLObc_4vNqEwNUQXcMb9beDTq9g
+tunnels:
+  cmad:
+    addr: 5000
+    proto: http
