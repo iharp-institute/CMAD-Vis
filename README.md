@@ -84,8 +84,8 @@ CMAD provides an automated framework for detecting abnormal melt behavior betwee
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/iharp-institute/CMAD-Web-Application.git
-cd CMAD-Web-Application
+git clone https://github.com/iharp-institute/CMAD-Vis.git
+cd CMAD-Vis
 ```
 
 2. (Recommended) Create and activate a virtual environment:
