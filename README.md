@@ -119,3 +119,11 @@ python app.py
 5. Open your browser at:
    http://localhost:5000
 > **Note:** The app uses PyTorch with Apple MPS (Metal) backend by default (`device1 = "mps"` in `cmad_core.py`). If running on a non-Apple-Silicon machine, change this to `"cuda"` (NVIDIA GPU) or `"cpu"`.
+
+
+## 📅 Sample Date Pairs for Quick Testing
+
+| Scenario | Baseline Date (Day1) | Target Date (Day2) |
+|---|---|---|
+| Consecutive-day | 20220901 | 20220902 |
+| Multi-day cumulative | 20220901 | 20220908 |
